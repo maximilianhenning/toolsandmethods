@@ -1,4 +1,4 @@
-# collectingdata
+# toolsandmethods
 Repository for my project in the "Collecting Data" course at the University of Groningen
 
 I would like to examine the SCP Foundation, an online collaborative urban fiction wiki. There is currently nearly no research literature on the SCP Foundation, which is surprising to me, since to me personally, it is one of the greatest digital fiction projects currently in existence. I was able to find the following literature:
